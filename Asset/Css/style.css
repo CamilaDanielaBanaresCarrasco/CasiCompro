@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(to left, rgb(151, 166, 166), rgb(189, 187, 193));
+}
+
+.bg-plomo{
+background: rgb(232, 223, 223);
+color: rgb(7, 0, 0);
+}
+
+
+.bg-green{
+  background: rgb(17, 175, 43);
+  color: white;
+
+}
+.bg-calipso{
+    background: rgba(0, 119, 182, 0.8);
+    color: white;
+}
+
+p{
+font-size: 25px;  
+text-align: start;
+color: darkslategrey;
+margin: 0px;
+}
+
+  .p-yellow-xl {
+    display: flex;
+    justify-content: center;
+    color: rgb(234, 186, 13);
+    font-size: 6rem; /* o cualquier otro tamaño que desees */
+    font: bold;
+  }
+
+  .p-yellow-m{
+    display: flex;
+    justify-content: center;
+    color: rgb(234, 186, 13);
+    font-size: 2rem; /* o cualquier otro tamaño que desees */
+    font: bold;
+
+  }
+
+  .p-yellow-xs{
+
+    color: rgb(234, 192, 38);
+    font-size: 15px
+  
+  }
+
+  .bg-morado{
+    background: rgb(20, 9, 104);
+
+
+  }
+
+  .btn{
+    font-size: 2rem; /* o cualquier otro tamaño que desees */
+    display: flex;
+    justify-content: center;
+    color: rgb(17, 175, 43);
+    text-decoration: underline;
+
+
+  }
+
+  #codigo{
+    color: rgb(234, 186, 13);
+    font-size: 40px;
+    justify-content: center;
+    display: flex!important;
+  }
